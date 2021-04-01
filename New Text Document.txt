@@ -1,0 +1,1 @@
+https://nci-data-training.readthedocs.io/en/latest/_notebook/prep/Python_VDI_Part_I.html
